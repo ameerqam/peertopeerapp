@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+
+// Override default variables before the import
+$body-bg: #3B4248;
+$body-color: #FAF9F6;
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
