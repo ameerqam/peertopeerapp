@@ -3,7 +3,7 @@ by doing "node index.js" from the main repo directory, and then "npm start"
 from within the React app folder (cd react-peertopeerapp)
 
 
-Things I learnt and skills I built on through building this app:
+*Things I learnt and skills I built on through building this app:*
 
 State Management: Gained better understanding of state management in React applications, using hooks like useState and useReducer, to handle user inputs and message storage.
 
